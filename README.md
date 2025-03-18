@@ -1,13 +1,34 @@
-In this hotel booking analysis project, I focused on examining patterns and trends within booking data to derive actionable insights that could enhance operational efficiency and improve customer satisfaction. The analysis began with thorough data cleaning and preprocessing to handle missing values, duplicates, and inconsistencies, ensuring the dataset was reliable for further analysis.
+***Hotel Booking Analysis***
 
-Using exploratory data analysis (EDA) techniques, I utilized tools such as pandas, matplotlib, and seaborn to visualize and explore various facets of the hotel booking data. 
-This included analyzing booking trends across different time periods, the distribution of room types, and guest demographics.
-By visualizing seasonal fluctuations in bookings, I identified peak booking times, allowing the hotel to better manage its resources, staffing, and promotional efforts during high-demand periods.
+**Objective:**
 
-One significant insight derived from the analysis was the identification of factors influencing booking cancellations, such as the length of stay, booking lead time, and customer demographics.
-By recognizing these patterns, the hotel management could implement strategies to minimize cancellations and enhance customer retention.
-Additionally, I evaluated the most popular room types and amenities based on booking frequency, which provided guidance on how to optimize the hotel’s offerings to better align with guest preferences.
+This project aims to analyze hotel booking data to understand the factors contributing to high cancellation rates in City Hotels and Resort Hotels. The findings will help optimize pricing strategies, improve occupancy rates, and enhance revenue management.
 
-The project also examined customer segmentation, enabling the hotel to target specific customer groups with personalized marketing and promotional offers. 
-By identifying high-value customers and their behaviors, the hotel could tailor its services to meet the unique needs of each segment, leading to improved customer experience and increased bookings. 
-Overall, the analysis provided valuable insights that helped the hotel optimize its operations, improve customer engagement, and increase revenue.
+
+**Business Problem:**
+
+The hospitality industry has been facing a significant challenge due to high cancellation rates, impacting revenue generation and operational efficiency. This study focuses on identifying key factors influencing cancellations and provides data-driven recommendations to mitigate revenue loss.
+
+
+**Key Findings:**
+
+1)High Cancellation Rates: Approximately 37% of total reservations are canceled, significantly affecting revenue.
+2)Pricing Influence: Higher room rates correlate with increased cancellations. Offering dynamic pricing strategies and discounts can mitigate this issue.
+3)Booking Trends: City Hotels receive more bookings than Resort Hotels, likely due to pricing differences and seasonal demand fluctuations.
+4)Peak Cancellation Periods: The highest number of cancellations occur in January, while August experiences the most bookings. Targeted marketing and pricing strategies can be implemented accordingly.
+5)Booking Sources: Around 46% of reservations come through online travel agencies, with direct bookings accounting for only 4%, indicating a dependency on third-party platforms.
+6)Geographic Trends: Portugal accounts for the highest number of cancellations, suggesting a need for localized marketing and service enhancements.
+
+
+**Recommendations:**
+
+1)Implement dynamic pricing models to adjust rates based on demand and reduce cancellations.
+2)Offer promotional discounts for Resort Hotels on weekends and holidays to attract more bookings.
+3)Launch seasonal marketing campaigns in January to counteract the high cancellation trend.
+4)Enhance service quality and customer experience in high-cancellation regions, particularly Portugal, to improve retention.
+5)Encourage direct bookings by offering loyalty rewards and exclusive discounts to reduce dependency on third-party platforms.
+
+
+**Conclusion:**
+
+By leveraging data analytics, this project provides actionable insights into hotel booking behaviors and cancellation patterns. Implementing the recommended strategies can help hotels optimize revenue, improve customer retention, and enhance overall operational efficiency.
